@@ -1,0 +1,8 @@
+{
+  "name": "@wuxu/user-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Wuxu personal inventory user application",
+  "license": "UNLICENSED"
+}
+
